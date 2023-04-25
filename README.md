@@ -2,6 +2,7 @@
 This is the phase-1 of our project.
 
 #Description of the project
+
 This project consists of a comparitive analysis between four machine learning models namely Gradient Boosting, Random Forest, Support Vector Machine, and Logistic Regression. 
 Our project consisted of the following steps: 
 1.	Data Collection : In this stage we collected real time IVF data from Dr P. Thamilselvan. 
